@@ -1,0 +1,287 @@
+[
+  {
+    "code": "IN-AN",
+    "name": "Andaman and Nicobar Islands",
+    "language": [
+      "Bengali",
+      "Hindi",
+      "English"
+    ]
+  },
+  {
+    "code": "IN-AP",
+    "name": "Andhra Pradesh",
+    "language": [
+      "Telugu"
+    ]
+  },
+  {
+    "code": "IN-AR",
+    "name": "Arunachal Pradesh",
+    "language": [
+      "Miji",
+      "Apotanji",
+      "Merdukpen",
+      "Tagin",
+      "Adi",
+      "Honpa",
+      "Bangini-Nishi"
+    ]
+  },
+  {
+    "code": "IN-AS",
+    "name": "Assam",
+    "language": [
+      "Assamese"
+    ]
+  },
+  {
+    "code": "IN-BR",
+    "name": "Bihar",
+    "language": [
+      "Hindi"
+    ]
+  },
+  {
+    "code": "IN-CH",
+    "name": "Chandigarh",
+    "language": [
+      "Hindi"
+    ]
+  },
+  {
+    "code": "IN-CT",
+    "name": "Chhattisgarh",
+    "language": [
+      "Hindi"
+    ]
+  },
+  {
+    "code": "IN-DD",
+    "name": "Daman and Diu",
+    "language": [
+      "Gujarati",
+      "Konkani",
+      "Marathi"
+    ]
+  },
+  {
+    "code": "IN-DL",
+    "name": "Delhi",
+    "language": [
+      "Hindi"
+    ]
+  },
+  {
+    "code": "IN-DN",
+    "name": "Dadra and Nagar Haveli",
+    "language": [
+      "Gujarati",
+      "Marathi",
+      "Hindi"
+    ]
+  },
+  {
+    "code": "IN-GA",
+    "name": "Goa",
+    "language": [
+      "Konkani",
+      "Marathi"
+    ]
+  },
+  {
+    "code": "IN-GJ",
+    "name": "Gujarat",
+    "language": [
+      "Gujurat"
+    ]
+  },
+  {
+    "code": "IN-HR",
+    "name": "Haryana",
+    "language": [
+      "Hindi",
+      "Panjabi"
+    ]
+  },
+  {
+    "code": "IN-HP",
+    "name": "Himachal Pradesh",
+    "language": [
+      "Hindi",
+      "Panjabi"
+    ]
+  },
+  {
+    "code": "IN-JK",
+    "name": "Jammu and Kashmir",
+    "language": [
+      "Dogri",
+      "Kashmiri"
+    ]
+  },
+  {
+    "code": "IN-JH",
+    "name": "Jharkhand",
+    "language": [
+      "Hindi",
+      "Bhorjpuri"
+    ]
+  },
+  {
+    "code": "IN-KA",
+    "name": "Karnataka",
+    "language": [
+      "Kannada"
+    ]
+  },
+  {
+    "code": "IN-KL",
+    "name": "Kerala",
+    "language": [
+      "Malayalam"
+    ]
+  },
+  {
+    "code": "IN-LD",
+    "name": "Lakshadweep",
+    "language": [
+      "Malayalam",
+      "Mahl",
+      "English"
+    ]
+  },
+  {
+    "code": "IN-MP",
+    "name": "Madhya Pradesh",
+    "language": [
+      "Hindi"
+    ]
+  },
+  {
+    "code": "IN-MH",
+    "name": "Maharashtra",
+    "language": [
+      "Marathi"
+    ]
+  },
+  {
+    "code": "IN-MN",
+    "name": "Manipur",
+    "language": [
+      "Manipuri"
+    ]
+  },
+  {
+    "code": "IN-ML",
+    "name": "Meghalaya",
+    "language": [
+      "Garo",
+      "English",
+      "Khasi"
+    ]
+  },
+  {
+    "code": "IN-MZ",
+    "name": "Mizoram",
+    "language": [
+      "Mizo",
+      "English"
+    ]
+  },
+  {
+    "code": "IN-NL",
+    "name": "Nagaland",
+    "language": [
+      "Chang",
+      "Lotha",
+      "Ao"
+    ]
+  },
+  {
+    "code": "IN-OR",
+    "name": "Odisha",
+    "language": [
+      "Oriya"
+    ]
+  },
+  {
+    "code": "IN-PB",
+    "name": "Punjab",
+    "language": [
+      "Punjabi"
+    ]
+  },
+  {
+    "code": "IN-PY",
+    "name": "Puducherry",
+    "language": [
+      "Tamil",
+      "French",
+      "English",
+      "Telugu",
+      "Malayalam"
+    ]
+  },
+  {
+    "code": "IN-RJ",
+    "name": "Rajasthan",
+    "language": [
+      "Hindi",
+      "Rajasthani"
+    ]
+  },
+  {
+    "code": "IN-SK",
+    "name": "Sikkim",
+    "language": [
+      "Bhutia",
+      "Nepali"
+    ]
+  },
+  {
+    "code": "IN-TN",
+    "name": "Tamil Nadu",
+    "language": [
+      "Tamil"
+    ]
+  },
+  {
+    "code": "IN-TG",
+    "name": "Telangana",
+    "language": [
+      "Telugu",
+      "Urdu"
+    ]
+  },
+  {
+    "code": "IN-TR",
+    "name": "Tripura",
+    "language": [
+      "Bengali",
+      "Manipuri"
+    ]
+  },
+  {
+    "code": "IN-UT",
+    "name": "Uttarakhand",
+    "language": [
+      "Hindi"
+    ]
+  },
+  {
+    "code": "IN-UP",
+    "name": "Uttar Pradesh",
+    "language": [
+      "Hindi",
+      "Urdu"
+    ]
+  },
+  {
+    "code": "IN-WB",
+    "name": "West Bengal",
+    "language": [
+      "Bengali"
+    ]
+  }
+]
